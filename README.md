@@ -1,0 +1,2 @@
+# Qlik Sense Web Workers
+
